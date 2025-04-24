@@ -1,0 +1,7 @@
+CentralizedModel-dinovits16_04-24-2025:{
+Accuracy: 0.74
+Number of epochs: 5
+Optimizer: SGD
+Model: dino_vits16
+upload_date:04/24/2025
+}
