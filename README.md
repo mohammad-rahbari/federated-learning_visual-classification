@@ -34,7 +34,7 @@ This project supports two data-sharing modes across clients:
 - Aggregation of client models (**federated averaging**) is currently under development.
 - Supports both IID and non-IID data partitioning across clients.
 
-##📁 Project Files Overview
+## 📁 Project Files Overview
 The repository contains the following Jupyter notebooks:
 
 Centralized_model_visual_classification.ipynb
@@ -93,5 +93,5 @@ Suggestions, issues, and pull requests are welcome. Feel free to fork the repo a
 
 For questions or access to required files, please contact [Mohammad Rahbari](https://github.com/mohammad-rahbari).
 
-##📝 Acknowledgments
+## 📝 Acknowledgments
 This README file was created with the assistance of MML (ChatGPT) to ensure clarity, completeness, and structure.
